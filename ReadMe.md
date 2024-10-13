@@ -14,5 +14,8 @@ Public Domain, if not mentioned otherwise.
 - To Spicyhorse Team Members for all the fish
 - To Players who supported and motivated us all this time
 
+# TODO:
+- The game complains about not finding the hosted asset bundles. Trying to build them locally as the game otherwise runs fine.
+
 # RESERVED FOR PATCHES
 - Bleh
